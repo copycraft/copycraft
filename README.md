@@ -27,7 +27,7 @@
 
 - **Minecraft Mods & Plugins** – using Fabric & Bukkit/Spigot  
 - **Custom PCBs** – designed in EasyEDA, soldered by yours truly  
-- **Homelab Setup** – virtualization and self-hosted services via Proxmox on Arch
+- **Homelab Setup** – virtualization and self-hosted services via Proxmox and Docker
 
 ---
 
