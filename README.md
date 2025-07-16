@@ -7,6 +7,8 @@
 🐧 **I use Arch btw**  
 ✨ Passionate about customizing, building, and home automation
 
+💻 Personal site: [copycraft.github.io/copicraft](https://copycraft.github.io/copicraft/)
+
 ---
 
 ## 🧰 Tech Toolbox
