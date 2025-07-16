@@ -33,8 +33,7 @@
 
 ## 📊 GitHub Stats
 
-![Copicraft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=copycraft&show_icons=true&theme=tokyonight&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copycraft&layout=compact&theme=tokyonight)
+![Copicraft's GitHub Stats](https://github-readme-stats.vercel.app/api?username=copycraft&show_icons=true&theme=tokyonight&hide_title=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copycraft&layout=compact&theme=tokyonight)
 
 ---
 
